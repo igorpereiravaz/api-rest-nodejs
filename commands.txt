@@ -18,3 +18,6 @@ npm i eslint @rocketseat/eslint-config -D
 
 - install extension
 npm i dotenv
+
+- install zod for manipulation enviroments config
+npm i zod
