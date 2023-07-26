@@ -15,3 +15,6 @@ npm install tsx -D
 
 - install eslint and tool default rocketseat
 npm i eslint @rocketseat/eslint-config -D
+
+- install extension
+npm i dotenv
