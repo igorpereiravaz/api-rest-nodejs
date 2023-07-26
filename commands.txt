@@ -1,0 +1,14 @@
+- create package.json
+npm init -y
+
+- execute binaries files and create tsconfig file
+npx tsc --init
+
+- install fastify
+npm i fastify
+
+- install package development dependency for node modules (development ambient)
+npm install -D @types/node
+
+- tool for convert code from node (development ambient)
+npm install tsx -D
