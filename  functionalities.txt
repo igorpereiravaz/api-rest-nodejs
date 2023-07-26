@@ -1,7 +1,3 @@
-# api-rest-nodejs
-
-API for studing contents of Ignite Rocketseat
-
 # RF Requisitos Funcionais
 - [] O usuário deve poder criar uma nova transação;
 - [] O usuário deve poder obter um resumo da sua conta;
@@ -14,3 +10,4 @@ API for studing contents of Ignite Rocketseat
 - [] O usuário só poderá visualizar transações do qual ele criou;
 
 # RNF Requisitos Não-Funcionais
+
