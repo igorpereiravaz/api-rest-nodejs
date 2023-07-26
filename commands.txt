@@ -12,3 +12,6 @@ npm install -D @types/node
 
 - tool for convert code from node (development ambient)
 npm install tsx -D
+
+- install eslint and tool default rocketseat
+npm i eslint @rocketseat/eslint-config -D
