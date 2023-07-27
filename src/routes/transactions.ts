@@ -7,6 +7,11 @@ import { checkSessionIdExists } from '../middleware/check-session-id-exists'
 // Cookies <-> Formas da gente manter contexto entre requisições
 
 export async function transactionsRoutes(app: FastifyInstance) {
+  // addHook, é executado sempre antes para o plugin onde ele estiver
+  app.addHook('preHandler', async (request, reply) => {
+    return true
+  })
+
   // eslint-disable-next-line
   app.get('/', {
       preHandler: [checkSessionIdExists],
