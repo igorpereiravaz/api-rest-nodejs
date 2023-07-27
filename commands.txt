@@ -21,3 +21,6 @@ npm i dotenv
 
 - install zod for manipulation enviroments config
 npm i zod
+
+install cookie tools from fastify
+npm i @fastify/cookie
