@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "api-rest",
-        "database"
+        "database",
+        "test"
     ]
 }
