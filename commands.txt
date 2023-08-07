@@ -22,5 +22,15 @@ npm i dotenv
 - install zod for manipulation enviroments config
 npm i zod
 
-install cookie tools from fastify
+- install cookie tools from fastify
 npm i @fastify/cookie
+
+- install vistest from tests
+npm i vitest -D
+
+- install tool 
+tool from facility test implementation
+npm i supertest -D
+
+- install tool from convert ts code from js using supertest
+npm i -D @types/supertest
