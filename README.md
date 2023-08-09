@@ -10,7 +10,7 @@ API for studing contents of Ignite Rocketseat
 
 # RN Regras de Negócios
 - [x] A transação pode ser do tipo crédito(somará ao valore total) ou débito (subtrairá do valor total);
-- [] Deve ser possível identificarmos o usuário entre as requisições;
-- [] O usuário só poderá visualizar transações do qual ele criou;
+- [x] Deve ser possível identificarmos o usuário entre as requisições;
+- [x] O usuário só poderá visualizar transações do qual ele criou;
 
 # RNF Requisitos Não-Funcionais
