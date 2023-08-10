@@ -34,3 +34,6 @@ npm i supertest -D
 
 - install tool from convert ts code from js using supertest
 npm i -D @types/supertest
+
+- tool from build project in JS
+npm i tsup -D
